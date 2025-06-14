@@ -1749,6 +1749,18 @@ pre {
         margin: 6rem 5% 0 5%;
     }
 
+    /*
+    .hero-text {
+        text-align: center;
+    }
+
+    .hero-paragraph, .hero-code {
+        text-align: center;
+        font-size: 10.5px;
+        margin-top: 10px;
+    }
+    */
+
     .section-cards {
         flex-direction: column;
         gap: 2em;
